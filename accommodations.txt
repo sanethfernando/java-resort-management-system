@@ -1,0 +1,30 @@
+101|Single Standard|Single|Standard|230.0|false|A Standard Single room for 2 guests with basic room amneties.
+102|Single Standard|Single|Standard|230.0|false|A Standard Single room for 2 guests with basic room amneties.
+103|Single Standard|Single|Standard|230.0|false|A Standard Single room for 2 guests with basic room amneties.
+104|Double Standard|Double|Standard|350.0|false|A Standard double room for 4 guests with basic room amneties.
+105|Double Standard|Double|Standard|350.0|false|A Standard double room for 4 guests with basic room amneties.
+106|Double Standard|Double|Standard|350.0|false|A Standard double room for 4 guests with basic room amneties.
+107|Triple Standard|Triple|Standard|500.0|false|A Standard triple room for 6 guests with basic room amneties.
+108|Triple Standard|Triple|Standard|500.0|false|A Standard triple room for 6 guests with basic room amneties.
+109|Triple Standard|Triple|Standard|500.0|false|A Standard triple room for 6 guests with basic room amneties.
+110|Single Deluxe|Single|Deluxe|280.0|false|A Deluxe Single room for 2 guests which is more spacious and has a bathtub.
+111|Single Deluxe|Single|Deluxe|280.0|false|A Deluxe Single room for 2 guests which is more spacious and has a bathtub.
+112|Single Deluxe|Single|Deluxe|280.0|false|A Deluxe Single room for 2 guests which is more spacious and has a bathtub.
+113|Double Deluxe|Double|Deluxe|430.0|false|A Deluxe double room for 4 guests which is more spacious and has a bathtub.
+114|Double Deluxe|Double|Deluxe|430.0|false|A Deluxe double room for 4 guests which is more spacious and has a bathtub.
+115|Double Deluxe|Double|Deluxe|430.0|false|A Deluxe double room for 4 guests which is more spacious and has a bathtub.
+116|Triple Deluxe|Triple|Deluxe|600.0|false|A Deluxe triple room for 6 guests which is more spacious and has a bathtub.
+117|Triple Deluxe|Triple|Deluxe|600.0|false|A Deluxe triple room for 6 guests which is more spacious and has a bathtub.
+118|Triple Deluxe|Triple|Deluxe|600.0|false|A Deluxe triple room for 6 guests which is more spacious and has a bathtub.
+119|Single Premium|Single|Premium|350.0|false|A Premium Single room for 2 guests which has a spa and a kitchenette.
+120|Single Premium|Single|Premium|350.0|false|A Premium Single room for 2 guests which has a spa and a kitchenette.
+121|Single Premium|Single|Premium|350.0|false|A Premium Single room for 2 guests which has a spa and a kitchenette.
+122|Double Premium|Double|Premium|500.0|false|A Premium double room for 4 guests which has a spa and a kitchenette.
+123|Double Premium|Double|Premium|500.0|false|A Premium double room for 4 guests which has a spa and a kitchenette.
+124|Double Premium|Double|Premium|500.0|false|A Premium double room for 4 guests which has a spa and a kitchenette.
+125|Triple Premium|Triple|Premium|690.0|false|A Premium double room for 6 guests which has a spa and a kitchenette.
+126|Triple Premium|Triple|Premium|690.0|false|A Premium double room for 6 guests which has a spa and a kitchenette.
+127|Triple Premium|Triple|Premium|690.0|false|A Premium double room for 6 guests which has a spa and a kitchenette.
+128|Special Double|Double|Standard|350.0|false|A double room with wheelchair accessibility and emergency call facilities.
+129|Special Double|Double|Standard|350.0|false|A double room with wheelchair accessibility and emergency call facilities.
+130|Special Triple|Triple|Standard|500.0|false|A triple room with wheelchair accessibility and emergency call facilities.
